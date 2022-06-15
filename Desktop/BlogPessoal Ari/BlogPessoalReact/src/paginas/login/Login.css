@@ -1,0 +1,18 @@
+.textos1{
+    font-weight: bold !important;
+    background-color: rgb(253, 110, 139);
+    
+ }
+ 
+ .imagem{
+     background-image: url(https://i.imgur.com/KRorcHy.jpg);
+     background-repeat: no-repeat;
+     width: 80vh;
+     min-height: 80vh;
+     background-size: cover;
+     background-position: center;
+ }
+ 
+ .text-decorator-none{
+     text-decoration: none;
+ }
